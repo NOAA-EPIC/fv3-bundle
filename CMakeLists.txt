@@ -58,7 +58,7 @@ ecbuild_bundle( PROJECT oops  GIT "https://github.com/jcsda/oops.git"  TAG e8cbd
 ecbuild_bundle( PROJECT vader GIT "https://github.com/jcsda/vader.git" TAG 922863dc6afc7d6a644f1deedb6771744ce57f9c )
 ecbuild_bundle( PROJECT saber GIT "https://github.com/jcsda/saber.git" BRANCH develop UPDATE )
 ecbuild_bundle( PROJECT ioda  GIT "https://github.com/jcsda/ioda.git"  TAG b02248f298a027d26ef1c9a3d9f42f807db1b576 )
-ecbuild_bundle( PROJECT ufo   GIT "https://github.com/jcsda/ufo.git"   BRANCH develop UPDATE )
+ecbuild_bundle( PROJECT ufo   GIT "https://github.com/jcsda/ufo.git"   TAG 334fdbb8867d49c5eff3a33d6c3a64184e1ce6a2 )
 
 # Options for building with certain models
 # ----------------------------------------
