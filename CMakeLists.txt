@@ -56,7 +56,7 @@ ecbuild_bundle( PROJECT crtm GIT "https://github.com/jcsda/crtm.git" TAG v2.4-je
 # ----------------------
 ecbuild_bundle( PROJECT oops  GIT "https://github.com/jcsda/oops.git"  TAG e8cbd61084a4574906eafc0e9c5450da674f185a )
 ecbuild_bundle( PROJECT vader GIT "https://github.com/jcsda/vader.git" TAG 922863dc6afc7d6a644f1deedb6771744ce57f9c )
-ecbuild_bundle( PROJECT saber GIT "https://github.com/jcsda/saber.git" BRANCH develop UPDATE )
+ecbuild_bundle( PROJECT saber GIT "https://github.com/jcsda/saber.git" TAG eb86f4b43699c0c39202fe5e0982471f5383c4e9 )
 ecbuild_bundle( PROJECT ioda  GIT "https://github.com/jcsda/ioda.git"  TAG b02248f298a027d26ef1c9a3d9f42f807db1b576 )
 ecbuild_bundle( PROJECT ufo   GIT "https://github.com/jcsda/ufo.git"   TAG 334fdbb8867d49c5eff3a33d6c3a64184e1ce6a2 )
 
