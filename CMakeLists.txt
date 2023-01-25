@@ -83,7 +83,7 @@ ecbuild_bundle( PROJECT fv3-jedi-lm GIT "https://github.com/jcsda/fv3-jedi-linea
 
 # fv3-jedi and associated repositories
 # ------------------------------------
-ecbuild_bundle( PROJECT femps    GIT "https://github.com/jcsda/femps.git"    BRANCH develop UPDATE )
+ecbuild_bundle( PROJECT femps    GIT "https://github.com/jcsda/femps.git"    TAG cb396811eb26380478c4d3f177d95096ed2ddd8f )
 ecbuild_bundle( PROJECT fv3-jedi GIT "https://github.com/jcsda/fv3-jedi.git" TAG 9c42256c95a31c3c59604dddbbc60b51ae49a9f9 )
 
 # ioda, ufo, fv3-jedi and saber test data
